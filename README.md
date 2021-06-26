@@ -1,1 +1,1 @@
-<p>Personal websitemade using </p>
+<p>Personal website made using codersrank and netlify</p>
